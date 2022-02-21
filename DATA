@@ -1,0 +1,40 @@
+Exploring data:
+
+Order ID: 
+Order Status: 
+Category Name: any distinct classes to which entities or concepts belon
+SKU: “stock keeping unit”- it is a number that retailers assign to products to keep track of stock levels internally.
+Customization Group: 
+Customization Option: customer can select features like color, design, functionalities, add-on components or other options to make a more unique item rather than a mass produced one
+Quantity: determinate or estimated amount,total amount or number
+Unit Price:  the price for a single unit of measure
+Cost Price: the price at which goods are or have been bought by a merchant or retailer.
+Total Cost Price:  total expense incurred in reaching a particular level of output
+Total Price: full purchase price of a consumer item
+Order Total: An order defined for all pairs of items of a set
+Sub Total: the sum or total of a part of a group or column of figures,
+Tax:  compulsory contribution to state revenue added to the cost of some goods, services, and transactions
+Delivery Charge: is the cost of transporting or delivering goods
+Tip:  money given by a customer to agent in order to thank them for their services
+Discount: a deduction from the usual cost of something.
+Payment Method: the way in which an amount of money is paid, for example by cash, credit card
+Additional Charge: a charge in accordance with the Supplier's rates applicable from time to time and agreed between the Supplier and the Customer
+Remaining Balance:  refers to the unpaid portion of a  debt or credit card by customer
+Taxable Amount:the amount of income used to calculate the taxes owed by an individual or a company
+Transaction ID:is a special set of numbers that defines each transaction
+Currency Symbol:is a graphical representation that denotes the name of a currency
+Transaction Status:used to track the state or condition of the transaction record wherther is paid or pending or approved
+Promo Code:is a code offered by retailers to customers who can use it to receive a discounted price when buying products online
+Customer ID:is unique means of identification allocated to or selected by the Customer 
+Merchant ID:is a unique identifier given to you by your payment processing provider
+Store Name:identification given to specific store
+Pickup Address:the address specified in the Service Application Form where delivery packets are to be delivered
+Description:a statement or a piece of writing that tells how service was by customer
+Distance (in km):the length of the space taken by the agent to deliver to the client
+Order Time: The time elapsing between the submittal of requisition or order and shipment of materiel by the supplying activity
+Pickup Time: time stamp set communicated to the customer by service provider for commencement of performance of the Services
+Delivery Time:the time at which a buyer has been told that good will arrive at the place where they are wanted
+Ratings:a classification or ranking of someone or something based on a comparative assessment of their quality, standard, or performance
+Reviews:a formal assessment of something with the intention of instituting change if necessary.
+Churn Label: Yes = the customer left the company this quarter. No = the customer remained with the company.
+
